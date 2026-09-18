@@ -1,5 +1,6 @@
 # 🤖 AI Chatbot
 
+LIVE:https://ai-chatbot-ashen-kappa.vercel.app/
 An interactive, responsive chatbot web application where a user types a question and receives an AI-style reply in a chat interface. The front end is deployed on Vercel. This README also documents a proposed **full-stack architecture** (Node.js API + database) that the project is designed to grow into.
 
 > **How to read this README**
